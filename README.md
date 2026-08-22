@@ -2,6 +2,8 @@
 
 A voice-first shopping assistant that allows users to manage shopping lists naturally using voice commands, with smart recommendations and automatic product categorization.
 
+Workinh URL - https://voice-shopper-zeta.vercel.app/
+
 ---
 
 ## What It Does
